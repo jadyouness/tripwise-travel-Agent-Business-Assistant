@@ -1,0 +1,21 @@
+[
+    {
+        "timestamp": "2025-10-18 20:21:12",
+        "customer_info": {
+            "name": "jad younes",
+            "gender": "male",
+            "phone": "76843043",
+            "email": "jad@mandhudh.com"
+        },
+        "trip_details": {
+            "destination": "paris",
+            "start_date": "2025-10-19",
+            "end_date": "2025-10-26",
+            "budget": "4000",
+            "flight_company_preference": "mea",
+            "preferred_activities": "museums",
+            "restaurant_type": "italian",
+            "weather_preferred": "sunny"
+        }
+    }
+]

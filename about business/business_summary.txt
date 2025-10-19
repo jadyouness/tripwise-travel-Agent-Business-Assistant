@@ -1,0 +1,7 @@
+TripWise Travel Solutions is a modern travel planning company dedicated to making trip organization effortless, affordable, and deeply personalized. Our mission is to transform the travel experience by combining real-world tourism expertise with the power of artificial intelligence.
+
+We offer comprehensive travel services — including flight and hotel booking, itinerary design, activity recommendations, and destination insights — all tailored to each traveler’s preferences, budget, and schedule.
+
+To support this mission, TripWise has developed an AI-powered assistant that acts as a 24/7 digital travel planner. Through a simple conversational interface, travelers can generate complete itineraries, explore flight and accommodation options, and receive personalized recommendations — all without needing to visit a physical office.
+
+TripWise was founded by Jad Younes (ID: 202572757), an AI and energy systems engineer passionate about creating intelligent systems that simplify everyday life. He is joined by Maria Haddad, a travel operations specialist with extensive experience in tourism and customer engagement. Together, they lead TripWise Travel Solutions in bridging the gap between cutting-edge AI technology and real-world travel needs.
